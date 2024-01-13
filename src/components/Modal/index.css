@@ -1,0 +1,12 @@
+.columns-container{
+    display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.column{
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    margin: 0 10px;
+}
